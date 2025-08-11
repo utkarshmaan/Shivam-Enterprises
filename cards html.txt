@@ -1,0 +1,100 @@
+   <div class="main">
+        <h1>skills</h1>
+       
+    <div class="skills" id="skill">
+        
+
+        <!-- c++ -->
+    <!-- <div class="cards">
+        <div class="cimg">
+            <img src="c++.jpg">
+        </div>
+        <div class="title">
+            <h1>C++</h1>
+        </div>
+        <div class="des">
+            <p>i know basics of c++</p>
+            <button class="cbtn">Projects by me</button>
+        </div>
+    </div> -->
+
+
+    <!-- java -->
+    <div class="cards">
+        <div class="cimg">
+            <img src="java.jpeg">
+        </div>
+        <div class="title">
+            <h1>java</h1>
+        </div>
+        <!-- <div class="des">
+            <button class="cbtn">read more</button>
+        </div> -->
+    </div>
+
+    <!-- html -->
+    <div class="cards">
+        <div class="cimg">
+            <img src="html.png">
+        </div>
+        <div class="title">
+            <h1>html</h1>
+        </div>
+        <!-- <div class="des">
+            <button class="cbtn">read more</button>
+        </div> -->
+    </div>
+
+    <!-- css -->
+    <div class="cards">
+        <div class="cimg">
+            <img src="css.jpg">
+        </div>
+        <div class="title">
+            <h1>css</h1>
+        </div>
+        <!-- <div class="des">
+            <button class="cbtn">read more</button>
+        </div> -->
+    </div>
+
+    <!-- js -->
+    <div class="cards">
+        <div class="cimg">
+            <img src="js.png">
+        </div>
+        <div class="title">
+            <h1>javascript</h1>
+        </div>
+        <!-- <div class="des">
+            <button class="cbtn">read more</button>
+        </div> -->
+    </div>
+
+    <!-- react -->
+    <div class="cards">
+        <div class="cimg">
+            <img src="react.jpg">
+        </div>
+        <div class="title">
+            <h1>react js</h1>
+        </div>
+        <!-- <div class="des">
+            <button class="cbtn">read more</button>
+        </div> -->
+    </div>
+
+    <!-- node -->
+    <div class="cards">
+        <div class="cimg">
+            <img src="node.jpg">
+        </div>
+        <div class="title">
+            <h1>node</h1>
+        </div>
+        <!-- <div class="des">
+            <button class="cbtn">read more</button>
+        </div> -->
+    </div>
+    </div>
+</div>

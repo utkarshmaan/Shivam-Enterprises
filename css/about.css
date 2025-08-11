@@ -1,0 +1,96 @@
+
+.about{
+    align-items: center;
+    display:block;
+    color:black;
+    background-color: white;
+    padding:50px 0 60px 0;
+}
+
+.about .content{
+    display:flex;
+    align-items: center;
+}
+.about h1{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 400;
+    text-transform: capitalize;
+    
+}
+.about .hello{
+    display: flex;
+    margin:auto;
+    width:60%;
+    text-align: left;
+    font-size: 1.75rem;
+    font-weight: 700;
+}
+.about p{
+    display: flex;
+    margin:80px;
+    width:50%;
+    text-align: left;
+    font-size: 1.5rem;
+    text-wrap:wrap;
+    padding: 10px 20px;
+    justify-content: center;
+}
+.cbtn{
+    display: flex;
+    margin:auto;
+    padding:15px;
+    border-radius: 50px;
+    border-width:2px;
+    background-color:white;
+    text-transform: uppercase;
+    cursor:pointer;
+}
+.cbtn a{
+    margin:auto;
+    font-size: 1rem;
+    color:black;
+    font-weight: 400;
+}
+.printing-logo{
+    width:50%;
+    display:flex;
+   justify-content: center;
+}
+.printing-logo img{
+    width:600px;
+    height:400px;
+}
+
+@media (max-width:991px){
+    .about p{
+        width:60%;
+        margin:20px;
+    }
+    .about .content{
+        display: block;
+    }
+    .printing-logo{
+        width:100%;
+    }
+    .printing-logo img{
+        width:400px;
+        height:300px;
+    }
+}
+@media (max-width:600px){
+    .about p{
+        width:90%;
+        font-size: 1.25rem;
+    }
+    .about h1{
+        font-size: 3rem;
+        font-weight: 300;
+        
+    }
+    .about .hello{
+        width:90%;
+        font-weight: 500;
+    }
+  
+}
