@@ -26,7 +26,7 @@ The project showcases modern UI design principles with clean layouts and smooth 
 
 1. **Clone the repository:**
    ```bash
-   git clone [[repository_url]](https://github.com/utkarshmaan/Shivam-Enterprises.git)
+   git clone https://github.com/utkarshmaan/Shivam-Enterprises.git
    ```
 2. **Navigate to the project folder:**
    ```bash
